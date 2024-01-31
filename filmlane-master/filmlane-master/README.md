@@ -34,12 +34,12 @@ To run **Filmlane** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Sanjaykumar2210/filmlane.git
+sudo git clone https://github.com/Sanjaykumar2210/filmlane
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Sanjaykumar2210/filmlane.git
+git clone https://github.com/Sanjaykumar2210/filmlane
 ```
 
